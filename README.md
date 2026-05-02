@@ -89,4 +89,4 @@ O projeto demonstra que modelos mais complexos, como redes neurais, tendem a apr
 
 ## Link para o vídeo de explicação
 
-https://youtu.be/DZf0bMsRous
+https://youtu.be/dStOARu-r6A
